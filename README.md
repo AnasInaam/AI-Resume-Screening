@@ -121,10 +121,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-[](https://github.com/AnasInaam/AI-Resume-Screening#%E2%80%8D-author)
-**[Altamash Faraz](https://github.com/altamash-faraz)**
+**[Anas Inaam](https://github.com/AnasInaam)**
 
-[![GitHub](https://camo.githubusercontent.com/01b8b9c679997554ddacb2cc86c4d83b88259aed5ee0bb3674b5aeb67578fa5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d616c74616d6173682d2d666172617a2d626c61636b3f6c6f676f3d676974687562)](https://github.com/altamash-faraz)
+[![GitHub](https://img.shields.io/badge/GitHub-AnasInaam-black?logo=github)](https://github.com/AnasInaam)
 
 *Made with 💙 and lots of ☕*
 
