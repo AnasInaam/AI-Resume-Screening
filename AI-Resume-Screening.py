@@ -80,7 +80,7 @@ if uploaded_files and job_description:
             color = "#66BB6A" if val > 0.7 else "#FFCA28" if val > 0.4 else "#E57373"
             return f"background-color: {color}; color: white; text-align: center"
 
-        st.dataframe(results.style.applymap(color_map, subset=["Score"]))
+        st.dataframe(results.style.map(color_map, subset=["Score"]))
 
     else:
         st.error("⚠️ No text extracted from the uploaded PDFs. Try different files.")
