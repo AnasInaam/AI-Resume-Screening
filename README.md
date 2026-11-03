@@ -123,9 +123,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**[Altamash Faraz](https://github.com/altamash-faraz)**
+**[Anas Inaam](https://github.com/AnasInaam)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-altamash--faraz-black?logo=github)](https://github.com/altamash-faraz)
+[![GitHub](https://img.shields.io/badge/GitHub-AnasInaam-black?logo=github)](https://github.com/AnasInaam)
 
 _Made with 💙 and lots of ☕_
 
